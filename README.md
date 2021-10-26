@@ -1,5 +1,2 @@
-# testrepo
-test repo
-
-
-test readme file text
+# Applied Data Science Capstone
+Coursera course by IBM
